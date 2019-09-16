@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+A. The Document Object Model, or DOM, is the graphic representation of the HTML. It can be manipulated using Javascript.
+
 2. What is an event?
+
+B. An event is any interaction between a user and the page or browser. Such examples include scrolling, clicking, etc.
 
 3. What is an event listener?
 
+C. An event listener is code that usually waits or "listens" for the user to perform a certain interaction on a page, like when a user clicks a link or hovers over an image.
+
 4. Why would we convert a NodeList into an Array?
 
+D. NodeList would receive the methods from an array, allowing it more functionality.
+
 5. What is a component?
+
+E. Components are reusable pieces of code that can be used to build elements sharing functionality and styling.
 
 ### Git Set up
 
